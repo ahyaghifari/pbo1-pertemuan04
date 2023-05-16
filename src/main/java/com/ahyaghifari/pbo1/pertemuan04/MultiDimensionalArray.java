@@ -6,10 +6,10 @@ public class MultiDimensionalArray {
         double[] bobot = new double [4]; 
         double[][] nilaiMahasiswa = new double[5][30];
         
-        bobot[0] = 4;
-        bobot[1] = 4;
-        bobot[2] = 3.5;
-        bobot[3] = 3.5;
+        bobot[0] = 0.1;
+        bobot[1] = 0.2;
+        bobot[2] = 0.3;
+        bobot[3] = 0.4;
         
         nilaiMahasiswa[0][0] = 80;
         nilaiMahasiswa[1][0] = 90;
